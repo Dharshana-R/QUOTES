@@ -8,7 +8,7 @@ var quotes = ['You are Growing when you can be alone without feeling lonely',
     'You are either choosing it or changing it. There is no in-between.',
     'You separate yourself from the pack by being consitent.',
     'Be brace enough to walk with you. Many who started with you, wont finish with you',
-    'Run TO god God with you questions, dont run From him with your doubts']
+    'Run TO god God with you questions, dont run FROM him with your doubts']
 
 var quotestam = ['எல்லோரும் பயணிக்கிறார்கள் என்று நீயும் பின்தொடராதே உனக்கான பாதையை நீயே தேர்ந்தெடு',
     'இருளான வாழ்க்கை என்ற கவலை கொள்ளாதே கனவுகள் முளைப்பது இருளில் தான்',
